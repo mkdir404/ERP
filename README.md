@@ -1,6 +1,15 @@
 ERP
 ===
 
-session-cookies-jqueryUI-ezSQL 
+-Codigo de ejemplo de login en php con encryptado de password , cookies , session.
+-Formulario de alta de usuarios.
 
-Sample redme
+Source
+===
+
+PHP
+Jquery UI
+EzSQL Class
+Bootstrap
+Mysql
+
