@@ -1,15 +1,25 @@
-ERP
-===
+## ERP
 
--Codigo de ejemplo de login en php con encryptado de password , cookies , session.
--Formulario de alta de usuarios.
+*by [@mkdir404](https://twitter.com/rikval)*
 
-Source
-===
+## What is this?
+Login Jquery + PHP 
 
-PHP
-Jquery UI
-EzSQL Class
-Bootstrap
-Mysql
+## Try it:
+
+comming..
+
+## Source
+
+*In this small project was implemented*
+
+*PHP
+*Jquery UI
+*EzSQL Class
+*Bootstrap
+*Mysql
+
+Free GPL libre whatever use it as you like
+
+
 
